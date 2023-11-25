@@ -10,9 +10,10 @@
 - ⚡ Fun fact **I also do game dev on the side**
 
 [![phanstudio's GitHub | Stats](https://stats.quine.sh/phanstudio/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=phanstudio)
-[![phanstudio's GitHub | Topics Over Time](https://stats.quine.sh/phanstudio/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=phanstudio)
 
 <h3 align="left">Connect with me:</h3>
+[![phanstudio's GitHub | Topics Over Time](https://stats.quine.sh/phanstudio/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=phanstudio)
+
 <p align="left">
 <a href="https://linkedin.com/in/dev-peterben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-peterben" height="30" width="40" /></a>
 <a href="https://instagram.com/dev.pete.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev.pete.py" height="30" width="40" /></a>
