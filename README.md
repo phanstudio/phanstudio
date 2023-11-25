@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/dev-peterben" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-peterben" height="30" width="40" /></a>
 <a href="https://instagram.com/dev.pete.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dev.pete.py" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@dev_pete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dev_pete" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/@dev_pete](https://www.youtube.com/channel/UCV3h9-HxBzCG-cKPjshSzVQ)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dev_pete" height="30" width="40" /></a>
 </p>
 
 [![phanstudio's GitHub | Topics Over Time](https://stats.quine.sh/phanstudio/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=phanstudio)
