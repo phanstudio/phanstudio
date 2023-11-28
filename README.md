@@ -10,6 +10,7 @@
 - ⚡ Fun fact **I also do game dev on the side**
 
 [![phanstudio's GitHub | Stats](https://stats.quine.sh/phanstudio/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=phanstudio)
+[![phanstudio's GitHub | Dependencies](https://stats.quine.sh/phanstudio/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=phanstudio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
