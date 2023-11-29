@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [blog website](https://github.com/phanstudio/myblog)
 
-- 🌱 I’m currently learning **Flutter, for mobile development**
+- 🌱 I’m currently learning **Flutter, for mobile development, and dart**
 
 - 💬 Ask me about **python, backend, django, ai, analysis**
 
