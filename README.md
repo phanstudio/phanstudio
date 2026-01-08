@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dev Pete py</h1>
 <h3 align="center">Senior Front-End / Full-Stack Engineer | Python & Web3 Enthusiast from Nigeria</h3>
 
-- 🔭 I’m currently building [Notty Terminal](https://github.com/phanstudio/notty) and other Web3 / FinTech projects integrating **payments, wallets, and blockchain APIs**
-- 🌱 I’m learning **Flutter & Dart** for mobile development and **Vue.js / Nuxt.js** for frontend scaling
-- 💬 Ask me about **Python, TypeScript, Django, REST APIs, Web3, FinTech systems, and secure frontend design**
-- ⚡ Fun fact: I also do **game development** and AI/LLM-based automation tools on the side
+* 🔭 Currently building **Notty Terminal** and other **Web3 / FinTech platforms**, focusing on **secure user interfaces**, **wallet integrations**, and **blockchain-powered payment flows**
+* 🌱 Expanding my frontend toolkit with **Vue.js / Nuxt.js** for scalable web applications, alongside **Flutter & Dart** for cross-platform mobile development
+* 💬 Ask me about **Python**, **TypeScript**, **Django**, **RESTful APIs**, **Web3 integrations**, **FinTech architectures**, and **secure frontend–backend communication**
+* ⚡ Fun fact: I also build **games** and **AI/LLM-powered automation tools**, applying these skills to developer tooling and research workflows
 
 [![phanstudio's GitHub | Stats](https://stats.quine.sh/phanstudio/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=phanstudio)
 [![phanstudio's GitHub | Dependencies](https://stats.quine.sh/phanstudio/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=phanstudio)
