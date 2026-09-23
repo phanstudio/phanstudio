@@ -40,4 +40,5 @@
   <details open><summary>Mildly interesting facts</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.facts.svg" alt=""></img></details>
   <img width="900" height="1" alt="">
 </p> -->
-[![GitHub Streak](https://github-readme-streak-stats-v3vk.vercel.app?user=PhanStudio&theme=tokyonight-duo&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats-v3vk.vercel.app?user=phanstudio&theme=dracula&short_numbers=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
